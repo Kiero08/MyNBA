@@ -1,0 +1,512 @@
+{
+  "rekord": {
+    "wygrane": 19,
+    "przegrane": 5
+  },
+  "terminarz": [
+    {
+      "przeciwnik": "SAC",
+      "logoPrzeciwnika": "images/sac.png",
+      "wynik": "57 - 76",
+      "rezultat": "L"
+    },
+    {
+      "przeciwnik": "PHX",
+      "logoPrzeciwnika": "images/phx.png",
+      "wynik": "64 - 77",
+      "rezultat": "L"
+    },
+    {
+      "przeciwnik": "DEN",
+      "logoPrzeciwnika": "images/den.png",
+      "wynik": "62 - 82",
+      "rezultat": "L"
+    },
+    {
+      "przeciwnik": "MEM",
+      "logoPrzeciwnika": "images/mem.png",
+      "wynik": "67 - 51",
+      "rezultat": "W"
+    },
+    {
+      "przeciwnik": "ORL",
+      "logoPrzeciwnika": "images/orl.png",
+      "wynik": "84 - 61",
+      "rezultat": "W"
+    },
+    {
+      "przeciwnik": "MIN",
+      "logoPrzeciwnika": "images/min.png",
+      "wynik": "62 - 72",
+      "rezultat": "L"
+    },
+    {
+      "przeciwnik": "CHI",
+      "logoPrzeciwnika": "images/chi.png",
+      "wynik": "69 - 63",
+      "rezultat": "W"
+    },
+    {
+      "przeciwnik": "IND",
+      "logoPrzeciwnika": "images/ind.png",
+      "wynik": "71 - 56",
+      "rezultat": "W"
+    },
+    {
+      "przeciwnik": "MEM",
+      "logoPrzeciwnika": "images/mem.png",
+      "wynik": "76 - 65",
+      "rezultat": "W"
+    },
+    {
+      "przeciwnik": "POR",
+      "logoPrzeciwnika": "images/por.png",
+      "wynik": "74 - 66",
+      "rezultat": "W"
+    },
+    {
+      "przeciwnik": "PHX",
+      "logoPrzeciwnika": "images/phx.png",
+      "wynik": "77 - 66",
+      "rezultat": "W"
+    },
+    {
+      "przeciwnik": "PHX",
+      "logoPrzeciwnika": "images/phx.png",
+      "wynik": "88 - 82",
+      "rezultat": "W"
+    },
+    {
+      "przeciwnik": "LAL",
+      "logoPrzeciwnika": "images/lal.png",
+      "wynik": "69 - 64",
+      "rezultat": "W"
+    },
+    {
+      "przeciwnik": "POR",
+      "logoPrzeciwnika": "images/por.png",
+      "wynik": "89 - 63",
+      "rezultat": "W"
+    },
+    {
+      "przeciwnik": "NOP",
+      "logoPrzeciwnika": "images/nop.png",
+      "wynik": "82 - 59",
+      "rezultat": "W"
+    },
+    {
+      "przeciwnik": "NOP",
+      "logoPrzeciwnika": "images/nop.png",
+      "wynik": "86 - 61",
+      "rezultat": "W"
+    },
+    {
+      "przeciwnik": "MEM",
+      "logoPrzeciwnika": "images/mem.png",
+      "wynik": "84 - 70",
+      "rezultat": "W"
+    },
+    {
+      "przeciwnik": "MIN",
+      "logoPrzeciwnika": "images/min.png",
+      "wynik": "84 - 67",
+      "rezultat": "W"
+    },
+    {
+      "przeciwnik": "POR",
+      "logoPrzeciwnika": "images/por.png",
+      "wynik": "92 - 47",
+      "rezultat": "W"
+    },
+    {
+      "przeciwnik": "DAL",
+      "logoPrzeciwnika": "images/dal.png",
+      "wynik": "100 - 75",
+      "rezultat": "W"
+    },
+    {
+      "przeciwnik": "PHX",
+      "logoPrzeciwnika": "images/phx.png",
+      "wynik": "75 - 67",
+      "rezultat": "W"
+    },
+    {
+      "przeciwnik": "PHI",
+      "logoPrzeciwnika": "images/phi.png",
+      "wynik": "59 - 67",
+      "rezultat": "L"
+    },
+    {
+      "przeciwnik": "OKC",
+      "logoPrzeciwnika": "images/okc.png",
+      "wynik": "95 - 68",
+      "rezultat": "W"
+    },
+    {
+      "przeciwnik": "NYK",
+      "logoPrzeciwnika": "images/nyk.png",
+      "wynik": "85 - 60",
+      "rezultat": "W"
+    },
+    {
+      "przeciwnik": "POR",
+      "logoPrzeciwnika": "images/por.png",
+      "wynik": "0 - 0",
+      "rezultat": "N/A"
+    },
+    {
+      "przeciwnik": "SAC",
+      "logoPrzeciwnika": "images/sac.png",
+      "wynik": "0 - 0",
+      "rezultat": "N/A"
+    },
+    {
+      "przeciwnik": "BRK",
+      "logoPrzeciwnika": "images/brk.png",
+      "wynik": "0 - 0",
+      "rezultat": "N/A"
+    },
+    {
+      "przeciwnik": "CLE",
+      "logoPrzeciwnika": "images/cle.png",
+      "wynik": "0 - 0",
+      "rezultat": "N/A"
+    },
+    {
+      "przeciwnik": "DET",
+      "logoPrzeciwnika": "images/det.png",
+      "wynik": "0 - 0",
+      "rezultat": "N/A"
+    },
+    {
+      "przeciwnik": "TOR",
+      "logoPrzeciwnika": "images/tor.png",
+      "wynik": "0 - 0",
+      "rezultat": "N/A"
+    },
+    {
+      "przeciwnik": "SAS",
+      "logoPrzeciwnika": "images/sas.png",
+      "wynik": "0 - 0",
+      "rezultat": "N/A"
+    },
+    {
+      "przeciwnik": "NOP",
+      "logoPrzeciwnika": "images/nop.png",
+      "wynik": "0 - 0",
+      "rezultat": "N/A"
+    },
+    {
+      "przeciwnik": "MIA",
+      "logoPrzeciwnika": "images/MIA.png",
+      "wynik": "0 - 0",
+      "rezultat": "N/A"
+    },
+    {
+      "przeciwnik": "DAL",
+      "logoPrzeciwnika": "images/dal.png",
+      "wynik": "0 - 0",
+      "rezultat": "N/A"
+    },
+    {
+      "przeciwnik": "DET",
+      "logoPrzeciwnika": "images/det.png",
+      "wynik": "0 - 0",
+      "rezultat": "N/A"
+    },
+    {
+      "przeciwnik": "BOS",
+      "logoPrzeciwnika": "images/bos.png",
+      "wynik": "0 - 0",
+      "rezultat": "N/A"
+    },
+    {
+      "przeciwnik": "PHI",
+      "logoPrzeciwnika": "images/phi.png",
+      "wynik": "0 - 0",
+      "rezultat": "N/A"
+    },
+    {
+      "przeciwnik": "MIL",
+      "logoPrzeciwnika": "images/mil.png",
+      "wynik": "0 - 0",
+      "rezultat": "N/A"
+    },
+    {
+      "przeciwnik": "DEN",
+      "logoPrzeciwnika": "images/den.png",
+      "wynik": "0 - 0",
+      "rezultat": "N/A"
+    },
+    {
+      "przeciwnik": "TOR",
+      "logoPrzeciwnika": "images/tor.png",
+      "wynik": "0 - 0",
+      "rezultat": "N/A"
+    },
+    {
+      "przeciwnik": "LAL",
+      "logoPrzeciwnika": "images/lal.png",
+      "wynik": "0 - 0",
+      "rezultat": "N/A"
+    },
+    {
+      "przeciwnik": "IND",
+      "logoPrzeciwnika": "images/ind.png",
+      "wynik": "0 - 0",
+      "rezultat": "N/A"
+    },
+    {
+      "przeciwnik": "GSW",
+      "logoPrzeciwnika": "images/gsw.png",
+      "wynik": "0 - 0",
+      "rezultat": "N/A"
+    },
+    {
+      "przeciwnik": "OKC",
+      "logoPrzeciwnika": "images/okc.png",
+      "wynik": "0 - 0",
+      "rezultat": "N/A"
+    },
+    {
+      "przeciwnik": "HOU",
+      "logoPrzeciwnika": "images/hou.png",
+      "wynik": "0 - 0",
+      "rezultat": "N/A"
+    },
+    {
+      "przeciwnik": "NOP",
+      "logoPrzeciwnika": "images/nop.png",
+      "wynik": "0 - 0",
+      "rezultat": "N/A"
+    },
+    {
+      "przeciwnik": "WAS",
+      "logoPrzeciwnika": "images/was.png",
+      "wynik": "0 - 0",
+      "rezultat": "N/A"
+    },
+    {
+      "przeciwnik": "CHA",
+      "logoPrzeciwnika": "images/cha.png",
+      "wynik": "0 - 0",
+      "rezultat": "N/A"
+    },
+    {
+      "przeciwnik": "BRK",
+      "logoPrzeciwnika": "images/brk.png",
+      "wynik": "0 - 0",
+      "rezultat": "N/A"
+    },
+    {
+      "przeciwnik": "NYK",
+      "logoPrzeciwnika": "images/nyk.png",
+      "wynik": "0 - 0",
+      "rezultat": "N/A"
+    },
+    {
+      "przeciwnik": "PHI",
+      "logoPrzeciwnika": "images/phi.png",
+      "wynik": "0 - 0",
+      "rezultat": "N/A"
+    },
+    {
+      "przeciwnik": "OKC",
+      "logoPrzeciwnika": "images/okc.png",
+      "wynik": "0 - 0",
+      "rezultat": "N/A"
+    },
+    {
+      "przeciwnik": "PHX",
+      "logoPrzeciwnika": "images/phx.png",
+      "wynik": "0 - 0",
+      "rezultat": "N/A"
+    },
+    {
+      "przeciwnik": "WAS",
+      "logoPrzeciwnika": "images/was.png",
+      "wynik": "0 - 0",
+      "rezultat": "N/A"
+    },
+    {
+      "przeciwnik": "OKC",
+      "logoPrzeciwnika": "images/okc.png",
+      "wynik": "0 - 0",
+      "rezultat": "N/A"
+    },
+    {
+      "przeciwnik": "PHX",
+      "logoPrzeciwnika": "images/phx.png",
+      "wynik": "0 - 0",
+      "rezultat": "N/A"
+    },
+    {
+      "przeciwnik": "GSW",
+      "logoPrzeciwnika": "images/gsw.png",
+      "wynik": "0 - 0",
+      "rezultat": "N/A"
+    },
+    {
+      "przeciwnik": "LAL",
+      "logoPrzeciwnika": "images/lal.png",
+      "wynik": "0 - 0",
+      "rezultat": "N/A"
+    },
+    {
+      "przeciwnik": "CHA",
+      "logoPrzeciwnika": "images/cha.png",
+      "wynik": "0 - 0",
+      "rezultat": "N/A"
+    },
+    {
+      "przeciwnik": "SAS",
+      "logoPrzeciwnika": "images/sas.png",
+      "wynik": "0 - 0",
+      "rezultat": "N/A"
+    },
+    {
+      "przeciwnik": "ATL",
+      "logoPrzeciwnika": "images/atl.png",
+      "wynik": "0 - 0",
+      "rezultat": "N/A"
+    },
+    {
+      "przeciwnik": "ORL",
+      "logoPrzeciwnika": "images/orl.png",
+      "wynik": "0 - 0",
+      "rezultat": "N/A"
+    },
+    {
+      "przeciwnik": "MIA",
+      "logoPrzeciwnika": "images/MIA.png",
+      "wynik": "0 - 0",
+      "rezultat": "N/A"
+    },
+    {
+      "przeciwnik": "WAS",
+      "logoPrzeciwnika": "images/was.png",
+      "wynik": "0 - 0",
+      "rezultat": "N/A"
+    },
+    {
+      "przeciwnik": "CHI",
+      "logoPrzeciwnika": "images/chi.png",
+      "wynik": "0 - 0",
+      "rezultat": "N/A"
+    },
+    {
+      "przeciwnik": "DEN",
+      "logoPrzeciwnika": "images/den.png",
+      "wynik": "0 - 0",
+      "rezultat": "N/A"
+    },
+    {
+      "przeciwnik": "BOS",
+      "logoPrzeciwnika": "images/bos.png",
+      "wynik": "0 - 0",
+      "rezultat": "N/A"
+    },
+    {
+      "przeciwnik": "ATL",
+      "logoPrzeciwnika": "images/atl.png",
+      "wynik": "0 - 0",
+      "rezultat": "N/A"
+    },
+    {
+      "przeciwnik": "MIN",
+      "logoPrzeciwnika": "images/min.png",
+      "wynik": "0 - 0",
+      "rezultat": "N/A"
+    },
+    {
+      "przeciwnik": "MIN",
+      "logoPrzeciwnika": "images/min.png",
+      "wynik": "0 - 0",
+      "rezultat": "N/A"
+    },
+    {
+      "przeciwnik": "OKC",
+      "logoPrzeciwnika": "images/okc.png",
+      "wynik": "0 - 0",
+      "rezultat": "N/A"
+    },
+    {
+      "przeciwnik": "DAL",
+      "logoPrzeciwnika": "images/dal.png",
+      "wynik": "0 - 0",
+      "rezultat": "N/A"
+    },
+    {
+      "przeciwnik": "HOU",
+      "logoPrzeciwnika": "images/hou.png",
+      "wynik": "0 - 0",
+      "rezultat": "N/A"
+    },
+    {
+      "przeciwnik": "DAL",
+      "logoPrzeciwnika": "images/dal.png",
+      "wynik": "0 - 0",
+      "rezultat": "N/A"
+    },
+    {
+      "przeciwnik": "SAS",
+      "logoPrzeciwnika": "images/sas.png",
+      "wynik": "0 - 0",
+      "rezultat": "N/A"
+    },
+    {
+      "przeciwnik": "HOU",
+      "logoPrzeciwnika": "images/hou.png",
+      "wynik": "0 - 0",
+      "rezultat": "N/A"
+    },
+    {
+      "przeciwnik": "SAC",
+      "logoPrzeciwnika": "images/sac.png",
+      "wynik": "0 - 0",
+      "rezultat": "N/A"
+    },
+    {
+      "przeciwnik": "CLE",
+      "logoPrzeciwnika": "images/cle.png",
+      "wynik": "0 - 0",
+      "rezultat": "N/A"
+    },
+    {
+      "przeciwnik": "LAC",
+      "logoPrzeciwnika": "images/lac.png",
+      "wynik": "0 - 0",
+      "rezultat": "N/A"
+    },
+    {
+      "przeciwnik": "GSW",
+      "logoPrzeciwnika": "images/gsw.png",
+      "wynik": "0 - 0",
+      "rezultat": "N/A"
+    },
+    {
+      "przeciwnik": "DEN",
+      "logoPrzeciwnika": "images/den.png",
+      "wynik": "0 - 0",
+      "rezultat": "N/A"
+    },
+    {
+      "przeciwnik": "HOU",
+      "logoPrzeciwnika": "images/hou.png",
+      "wynik": "0 - 0",
+      "rezultat": "N/A"
+    },
+    {
+      "przeciwnik": "LAC",
+      "logoPrzeciwnika": "images/lac.png",
+      "wynik": "0 - 0",
+      "rezultat": "N/A"
+    },
+    {
+      "przeciwnik": "GSW",
+      "logoPrzeciwnika": "images/gsw.png",
+      "wynik": "0 - 0",
+      "rezultat": "N/A"
+    }
+  ]
+}

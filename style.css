@@ -1,0 +1,122 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    background-color: #6c5ce7; /* Mountain Purple */
+    color: #fff; /* Biały tekst */
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    width: 80%;
+    margin: auto;
+    padding: 20px;
+    background-color: #6c5ce7; /* Białe tło kontenera */
+    border: 1px solid #ddd; /* Light gray border */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Shadow for depth */
+}
+
+#main-header {
+    background-image: url('images/uta.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    color: #f9a01b; /* Gold */
+    text-align: center;
+    padding: 20px;
+    position: relative;
+    overflow: hidden;
+}
+
+#main-header h1 {
+    font-size: 36px;
+    position: relative;
+    z-index: 2;
+    color: #f9a01b; /* Gold */
+    padding: 5px;
+    border: 2px solid #002b5c; /* Navy Blue ramka */
+    border-radius: 10px;
+    display: inline-block;
+    text-shadow: -1px 0 #002b5c, 0 1px #002b5c, 1px 0 #002b5c, 0 -1px #002b5c; /* Navy Blue obrys */
+}
+
+h2 {
+    color: #00471b; /* Green */
+}
+
+#rekord {
+    font-size: 24px;
+    text-align: center;
+    background-color: #f9a01b; /* Sky Blue background */
+    padding: 10px;
+    border-bottom: 2px solid #6c5ce7; /* Purple border */
+}
+
+.wygrana {
+    color: #074701; /* Mountain Purple */
+    font-weight: bold;
+}
+
+.przegrana {
+    color: #ff0000; /* Red */
+    font-weight: bold;
+}
+
+.tabela-meczy {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.tabela-meczy th {
+    background-color: #002b5c; /* Midnight Black */
+    color: #f9a01b; /* Gold */
+    font-weight: bold;
+    text-align: center;
+}
+
+.tabela-meczy td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: center;
+    background-color: #6c5ce7;
+}
+
+#timer-container {
+    text-align: center;
+    background-color: #87ceeb; /* Sky Blue background */
+    padding: 20px;
+    border: 1px solid #ddd;
+}
+
+@font-face {
+    font-family: 'Digital-7';
+    src: url('digital-7.ttf') format('truetype');
+}
+
+#show-full-schedule {
+    background-color: #002b5c; /* Navy Blue */
+    color: #f9a01b; /* Gold */
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    margin-bottom: 10px;
+}
+
+#show-full-schedule:hover {
+    background-color: #00471b; /* Darker Navy Blue on hover */
+}
+
+
+.timer {
+    font-family: 'Digital-7', sans-serif;
+    font-size: 48px;
+    font-weight: bold;
+    color: #ff4500; /* Kolor jak zegar koszykarski */
+    background-color: #000; /* Czarny ekran zegara */
+    padding: 20px;
+    border-radius: 10px;
+    display: inline-block;
+    border: 3px solid #ff4500; /* Pomarańczowa ramka */
+}

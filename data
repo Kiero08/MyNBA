@@ -1,0 +1,512 @@
+{
+  "rekord": {
+    "wygrane": 19,
+    "przegrane": 5
+  },
+  "terminarz": [
+    {
+      "przeciwnik": "SAC",
+      "logoPrzeciwnika": "sac.png",
+      "wynik": "57 - 76",
+      "rezultat": "L"
+    },
+    {
+      "przeciwnik": "PHX",
+      "logoPrzeciwnika": "phx.png",
+      "wynik": "64 - 77",
+      "rezultat": "L"
+    },
+    {
+      "przeciwnik": "DEN",
+      "logoPrzeciwnika": "den.png",
+      "wynik": "62 - 82",
+      "rezultat": "L"
+    },
+    {
+      "przeciwnik": "MEM",
+      "logoPrzeciwnika": "mem.png",
+      "wynik": "67 - 51",
+      "rezultat": "W"
+    },
+    {
+      "przeciwnik": "ORL",
+      "logoPrzeciwnika": "orl.png",
+      "wynik": "84 - 61",
+      "rezultat": "W"
+    },
+{
+"przeciwnik": "MIN",
+"logoPrzeciwnika": "min.png",
+"wynik": "62 - 72",
+"rezultat": "L"
+},
+{
+"przeciwnik": "CHI",
+"logoPrzeciwnika": "chi.png",
+"wynik": "69 - 63",
+"rezultat": "W"
+},
+{
+"przeciwnik": "IND",
+"logoPrzeciwnika": "ind.png",
+"wynik": "71 - 56",
+"rezultat": "W"
+},
+{
+"przeciwnik": "MEM",
+"logoPrzeciwnika": "mem.png",
+"wynik": "76 - 65",
+"rezultat": ""
+},
+{
+"przeciwnik": "POR",
+"logoPrzeciwnika": "por.png",
+"wynik": "74 - 66",
+"rezultat": "W"
+},
+{
+"przeciwnik": "PHX",
+"logoPrzeciwnika": "phx.png",
+"wynik": "77 - 66",
+"rezultat": "W"
+},
+{
+  "przeciwnik": "PHX",
+  "logoPrzeciwnika": "phx.png",
+  "wynik": "88 - 82",
+  "rezultat": "W"
+},
+{
+"przeciwnik": "LAL",
+"logoPrzeciwnika": "lal.png",
+"wynik": "69 - 64",
+"rezultat": ""
+},
+{
+  "przeciwnik": "POR",
+  "logoPrzeciwnika": "por.png",
+  "wynik": "89 - 63",
+  "rezultat": "W"
+},
+{
+"przeciwnik": "NOP",
+"logoPrzeciwnika": "nop.png",
+"wynik": "82 - 59",
+"rezultat": "W"
+},
+{
+  "przeciwnik": "NOP",
+  "logoPrzeciwnika": "nop.png",
+  "wynik": "86 - 61",
+  "rezultat": "W"
+},
+{
+"przeciwnik": "MEM",
+"logoPrzeciwnika": "mem.png",
+"wynik": "84 - 70",
+"rezultat": "W"
+},
+{
+"przeciwnik": "MIN",
+"logoPrzeciwnika": "min.png",
+"wynik": "84 - 67",
+"rezultat": "W"
+},
+{
+  "przeciwnik": "POR",
+  "logoPrzeciwnika": "por.png",
+  "wynik": "92 - 47",
+  "rezultat": "W"
+},
+{
+"przeciwnik": "DAL",
+"logoPrzeciwnika": "dal.png",
+"wynik": "100 - 75",
+"rezultat": ""
+},
+{
+  "przeciwnik": "PHX",
+  "logoPrzeciwnika": "phx.png",
+  "wynik": "75 - 67",
+  "rezultat": "W"
+},
+{
+"przeciwnik": "PHI",
+"logoPrzeciwnika": "phi.png",
+"wynik": "59 - 67",
+"rezultat": "L"
+},
+    {
+      "przeciwnik": "OKC",
+      "logoPrzeciwnika": "okc.png",
+      "wynik": "95 - 68",
+      "rezultat": "W"
+    },
+{
+"przeciwnik": "NYK",
+"logoPrzeciwnika": "nyk.png",
+"wynik": "85 - 60",
+"rezultat": "W"
+},
+{
+"przeciwnik": "POR",
+"logoPrzeciwnika": "por.png",
+"wynik": "0 - 0",
+"rezultat": ""
+},
+{
+"przeciwnik": "SAC",
+"logoPrzeciwnika": "sac.png",
+"wynik": "0 - 0",
+"rezultat": ""
+},
+{
+"przeciwnik": "BRK",
+"logoPrzeciwnika": "brk.png",
+"wynik": "0 - 0",
+"rezultat": ""
+},
+{
+"przeciwnik": "CLE",
+"logoPrzeciwnika": "cle.png",
+"wynik": "0 - 0",
+"rezultat": ""
+},
+{
+"przeciwnik": "DET",
+"logoPrzeciwnika": "det.png",
+"wynik": "0 - 0",
+"rezultat": ""
+},
+{
+"przeciwnik": "TOR",
+"logoPrzeciwnika": "tor.png",
+"wynik": "0 - 0",
+"rezultat": ""
+},
+{
+"przeciwnik": "SAS",
+"logoPrzeciwnika": "sas.png",
+"wynik": "0 - 0",
+"rezultat": ""
+},
+{
+"przeciwnik": "NOP",
+"logoPrzeciwnika": "nop.png",
+"wynik": "0 - 0",
+"rezultat": ""
+},
+{
+"przeciwnik": "MIA",
+"logoPrzeciwnika": "MIA.png",
+"wynik": "0 - 0",
+"rezultat": ""
+},
+{
+"przeciwnik": "DAL",
+"logoPrzeciwnika": "dal.png",
+"wynik": "0 - 0",
+"rezultat": ""
+},
+{
+"przeciwnik": "DET",
+"logoPrzeciwnika": "det.png",
+"wynik": "0 - 0",
+"rezultat": ""
+},
+{
+"przeciwnik": "BOS",
+"logoPrzeciwnika": "bos.png",
+"wynik": "0 - 0",
+"rezultat": ""
+},
+{
+"przeciwnik": "PHI",
+"logoPrzeciwnika": "phi.png",
+"wynik": "0 - 0",
+"rezultat": ""
+},
+{
+"przeciwnik": "MIL",
+"logoPrzeciwnika": "mil.png",
+"wynik": "0 - 0",
+"rezultat": ""
+},
+{
+"przeciwnik": "DEN",
+"logoPrzeciwnika": "den.png",
+"wynik": "0 - 0",
+"rezultat": ""
+},
+{
+"przeciwnik": "TOR",
+"logoPrzeciwnika": "tor.png",
+"wynik": "0 - 0",
+"rezultat": ""
+},
+{
+"przeciwnik": "LAL",
+"logoPrzeciwnika": "lal.png",
+"wynik": "0 - 0",
+"rezultat": ""
+},
+{
+"przeciwnik": "IND",
+"logoPrzeciwnika": "ind.png",
+"wynik": "0 - 0",
+"rezultat": ""
+},
+{
+"przeciwnik": "GSW",
+"logoPrzeciwnika": "gsw.png",
+"wynik": "0 - 0",
+"rezultat": ""
+},
+{
+"przeciwnik": "OKC",
+"logoPrzeciwnika": "okc.png",
+"wynik": "0 - 0",
+"rezultat": ""
+},
+{
+"przeciwnik": "HOU",
+"logoPrzeciwnika": "hou.png",
+"wynik": "0 - 0",
+"rezultat": ""
+},
+{
+"przeciwnik": "NOP",
+"logoPrzeciwnika": "nop.png",
+"wynik": "0 - 0",
+"rezultat": ""
+},
+{
+"przeciwnik": "WAS",
+"logoPrzeciwnika": "was.png",
+"wynik": "0 - 0",
+"rezultat": ""
+},
+{
+"przeciwnik": "CHA",
+"logoPrzeciwnika": "cha.png",
+"wynik": "0 - 0",
+"rezultat": ""
+},
+{
+"przeciwnik": "BRK",
+"logoPrzeciwnika": "brk.png",
+"wynik": "0 - 0",
+"rezultat": ""
+},
+{
+"przeciwnik": "NYK",
+"logoPrzeciwnika": "nyk.png",
+"wynik": "0 - 0",
+"rezultat": ""
+},
+{
+"przeciwnik": "PHI",
+"logoPrzeciwnika": "phi.png",
+"wynik": "0 - 0",
+"rezultat": ""
+},
+{
+"przeciwnik": "OKC",
+"logoPrzeciwnika": "okc.png",
+"wynik": "0 - 0",
+"rezultat": ""
+},
+{
+"przeciwnik": "PHX",
+"logoPrzeciwnika": "phx.png",
+"wynik": "0 - 0",
+"rezultat": ""
+},
+{
+  "przeciwnik": "WAS",
+  "logoPrzeciwnika": "was.png",
+  "wynik": "0 - 0",
+  "rezultat": ""
+},
+{
+  "przeciwnik": "OKC",
+  "logoPrzeciwnika": "okc.png",
+  "wynik": "0 - 0",
+  "rezultat": ""
+},
+{
+  "przeciwnik": "PHX",
+  "logoPrzeciwnika": "phx.png",
+  "wynik": "0 - 0",
+  "rezultat": ""
+},
+{
+  "przeciwnik": "GSW",
+  "logoPrzeciwnika": "gsw.png",
+  "wynik": "0 - 0",
+  "rezultat": ""
+},
+{
+  "przeciwnik": "LAL",
+  "logoPrzeciwnika": "lal.png",
+  "wynik": "0 - 0",
+  "rezultat": ""
+},
+{
+  "przeciwnik": "CHA",
+  "logoPrzeciwnika": "cha.png",
+  "wynik": "0 - 0",
+  "rezultat": ""
+},
+{
+  "przeciwnik": "SAS",
+  "logoPrzeciwnika": "sas.png",
+  "wynik": "0 - 0",
+  "rezultat": ""
+},
+{
+"przeciwnik": "ATL",
+"logoPrzeciwnika": "atl.png",
+"wynik": "0 - 0",
+"rezultat": ""
+},
+{
+  "przeciwnik": "ORL",
+  "logoPrzeciwnika": "orl.png",
+  "wynik": "0 - 0",
+  "rezultat": ""
+},
+{
+  "przeciwnik": "MIA",
+  "logoPrzeciwnika": "MIA.png",
+  "wynik": "0 - 0",
+  "rezultat": ""
+},
+{
+  "przeciwnik": "WAS",
+  "logoPrzeciwnika": "was.png",
+  "wynik": "0 - 0",
+  "rezultat": ""
+},
+{
+  "przeciwnik": "CHI",
+  "logoPrzeciwnika": "chi.png",
+  "wynik": "0 - 0",
+  "rezultat": ""
+},
+{
+  "przeciwnik": "DEN",
+  "logoPrzeciwnika": "den.png",
+  "wynik": "0 - 0",
+  "rezultat": ""
+},
+{
+  "przeciwnik": "BOS",
+  "logoPrzeciwnika": "bos.png",
+  "wynik": "0 - 0",
+  "rezultat": ""
+},
+{
+  "przeciwnik": "ATL",
+  "logoPrzeciwnika": "atl.png",
+  "wynik": "0 - 0",
+  "rezultat": ""
+},
+{
+  "przeciwnik": "MIN",
+  "logoPrzeciwnika": "min.png",
+  "wynik": "0 - 0",
+  "rezultat": ""
+},
+{
+  "przeciwnik": "MIN",
+  "logoPrzeciwnika": "min.png",
+  "wynik": "0 - 0",
+  "rezultat": ""
+},
+{
+  "przeciwnik": "OKC",
+  "logoPrzeciwnika": "okc.png",
+  "wynik": "0 - 0",
+  "rezultat": ""
+},
+{
+  "przeciwnik": "DAL",
+  "logoPrzeciwnika": "dal.png",
+  "wynik": "0 - 0",
+  "rezultat": ""
+},
+{
+  "przeciwnik": "HOU",
+  "logoPrzeciwnika": "hou.png",
+  "wynik": "0 - 0",
+  "rezultat": ""
+},
+{
+  "przeciwnik": "DAL",
+  "logoPrzeciwnika": "dal.png",
+  "wynik": "0 - 0",
+  "rezultat": ""
+},
+{
+  "przeciwnik": "SAS",
+  "logoPrzeciwnika": "sas.png",
+  "wynik": "0 - 0",
+  "rezultat": ""
+},
+{
+  "przeciwnik": "HOU",
+  "logoPrzeciwnika": "hou.png",
+  "wynik": "0 - 0",
+  "rezultat": ""
+},
+{
+  "przeciwnik": "SAC",
+  "logoPrzeciwnika": "sac.png",
+  "wynik": "0 - 0",
+  "rezultat": ""
+},
+{
+  "przeciwnik": "CLE",
+  "logoPrzeciwnika": "cle.png",
+  "wynik": "0 - 0",
+  "rezultat": ""
+},
+{
+"przeciwnik": "LAC",
+"logoPrzeciwnika": "lac.png",
+"wynik": "0 - 0",
+"rezultat": ""
+},
+{
+  "przeciwnik": "GSW",
+  "logoPrzeciwnika": "gsw.png",
+  "wynik": "0 - 0",
+  "rezultat": ""
+},
+{
+  "przeciwnik": "DEN",
+  "logoPrzeciwnika": "den.png",
+  "wynik": "0 - 0",
+  "rezultat": ""
+},
+{
+  "przeciwnik": "HOU",
+  "logoPrzeciwnika": "hou.png",
+  "wynik": "0 - 0",
+  "rezultat": ""
+},
+  {
+    "przeciwnik": "LAC",
+    "logoPrzeciwnika": "lac.png",
+    "wynik": "0 - 0",
+    "rezultat": ""
+  },
+  {
+    "przeciwnik": "GSW",
+    "logoPrzeciwnika": "gsw.png",
+    "wynik": "0 - 0",
+    "rezultat": ""
+  }
+]
+}
